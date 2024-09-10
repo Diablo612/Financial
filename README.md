@@ -1,3 +1,39 @@
+## Finance Platform
+Welcome to my Financial! This platform is designed to help you manage your personal or business finances effectively. With this Finance SaaS Platform, you can track your income and expenses, categorize transactions, assign them to specific accounts, and import transactions using a CSV file.
+
+## Features
+Effortlessly Track Income and Expenses: Keep a close eye on your financial activities with ease.
+Transaction Categorization: Group your financial transactions into specific categories for improved organization.
+Manage Accounts: Link transactions to designated accounts for better management.
+CSV File Import: Quickly add transactions by uploading CSV files.
+Bank Connectivity: Seamlessly connect to your bank account through Plaid.
+Platform Monetization: Use Lemon Squeezy to generate revenue from your platform.
+📊 Interactive dashboard for managing finances
+🔁 Multiple chart types that can be adjusted
+🗓 Filters for accounts and specific dates
+💹 Comprehensive transaction table
+➕ Transaction addition form
+🧩 Customizable dropdown components
+💵 Toggle between income and expenses
+🔄 Import transactions via CSV
+🔥 Backend API powered by Hono.js
+🪝 State management handled with Tanstack React Query
+🔗 Connect to bank accounts using Plaid
+💳 Premium features available through Lemon Squeezy
+🔐 Authentication using Clerk (Core 2)
+🗑 Bulk delete and search functionalities for transactions
+⚙️ Manage bank disconnections and subscriptions
+👤 Personalize user settings
+🌐 Built with Next.js 14 framework
+🎨 Styled with TailwindCSS and Shadcn UI
+💾 Uses PostgreSQL with Drizzle ORM
+🚀 Hosted and deployed on Vercel
+## Tech Stack
+  Frontend: Next.js, React
+  Backend: Hono.js
+  CSV Upload: Includes CSV file upload feature
+  Database: PostgreSQL
+  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
