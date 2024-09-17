@@ -1,6 +1,7 @@
 ## Finance Platform
 Welcome to my Financial! This platform is designed to help you manage your personal or business finances effectively. With this Finance SaaS Platform, you can track your income and expenses, categorize transactions, assign them to specific accounts, and import transactions using a CSV file.
 
+
 ## Features
 Effortlessly Track Income and Expenses: Keep a close eye on your financial activities with ease.
 Transaction Categorization: Group your financial transactions into specific categories for improved organization.
